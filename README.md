@@ -13,7 +13,7 @@
 - 🌱 **I'm currently learning:** MERN
 - 👯 **I'm looking to collaborate on:** Interesting open source projects
 - 💬 **Ask me about:** Tech, Coding, Collaboration
-- 📫 **How to reach me 😊 :** parikhjatan54@gmail.com / Socials
+- 📫 **How to reach me 😊 :** parikhjatan54@gmail.com / [Jatan Parikh](https://linkedin.com/in/jatanparikh)
 - ⚡ **Fun fact:** I don't chase tech trends — I build with them.
 
 ---
