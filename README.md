@@ -2,19 +2,18 @@
 
 # 💫 Hi 👋, I'm Jatan Parikh
 
-[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=500&color=33FF33&width=500&duration=2000&height=30&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=500&color=33FF33&width=500&duration=2000&height=30&lines=Full-Stack+Developer;Problem+Solver;Exploring+Devops;Always+Learning...)](https://git.io/typing-svg)
 
-📧 **[youremail@gmail.com](mailto:youremail@gmail.com)** — Feel free to reach out for Collaboration or Projects! 😊
 
 </div>
 
 ---
 
-- 🔭 **I'm currently working on:** Sah**AI**
+- 🔭 **I'm currently working on:** sah**AI**
 - 🌱 **I'm currently learning:** MERN
 - 👯 **I'm looking to collaborate on:** Interesting open source projects
 - 💬 **Ask me about:** Tech, Coding, Collaboration
-- 📫 **How to reach me:** parikhjatan54@gmail.com / Socials
+- 📫 **How to reach me 😊 :** parikhjatan54@gmail.com / Socials
 - ⚡ **Fun fact:** I don't chase tech trends — I build with them.
 
 ---
