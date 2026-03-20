@@ -1,9 +1,9 @@
 <div align="center">
 
-# 💫 Hi 👋, I'm Jatan Parikh
-
+#  Hi, I'm Jatan Parikh
+<div align='center'>
 [![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=500&color=33FF33&width=500&duration=2000&height=30&lines=Full-Stack+Developer;Problem+Solver;Exploring+Devops;Always+Learning...)](https://git.io/typing-svg)
-
+</div>
 
 </div>
 
