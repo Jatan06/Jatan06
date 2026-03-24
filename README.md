@@ -11,7 +11,7 @@
 
 - 🔭 **I'm currently working on:** sah**AI**
 - 🌱 **I'm currently learning:** MERN
-- 👯 **I'm looking to collaborate on:** Interesting open source projects
+- 👯 **I'm looking to collaborate on:** Open Source Projects
 - 💬 **Ask me about:** Tech, Coding, Collaboration
 - 📫 **How to reach me 😊 :** parikhjatan54@gmail.com / [Jatan Parikh](https://linkedin.com/in/jatanparikh)
 
