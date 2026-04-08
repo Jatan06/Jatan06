@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** sah**AI**
+- 🔭 **Currently working on:** Crik**AI**
 - 🌱 **Currently learning:** MERN Stack
 - 👯 **Looking to collaborate on:** Open Source Projects
 - 💬 **Ask me about:** Tech, Coding & Collaboration
